@@ -26,7 +26,7 @@ Actualmente especializado en el ecosistema Java/Spring Boot y Angular, con un fu
     <a href="https://es.react.dev">
         <img src="https://www.svgrepo.com/show/452092/react.svg" width="50" align="middle"/>
     </a> &nbsp;
-    <a href="nodejs.org/">        
+    <a href="https//nodejs.org/">        
         <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="50" align="middle"/>
     </a> &nbsp;
     <a href="https://www.mongodb.com">
