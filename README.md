@@ -35,9 +35,12 @@ Actualmente especializado en el ecosistema Java/Spring Boot y Angular, con un fu
     <a href="https://getbootstrap.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50" align="middle"/>
     </a> &nbsp;
+        </a>
+        <a href="https://www.docker.com">
+        <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50" align="middle"/>
+    </a> &nbsp;
     <a href="https://jakarta.ee">
         <img src="https://www.svgrepo.com/show/373717/jsp.svg" width="50" align="middle"/>
-    </a>
 </p>
 
 **Herramientas:**
