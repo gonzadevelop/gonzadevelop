@@ -38,7 +38,7 @@ Actualmente especializado en el ecosistema Java/Spring Boot y Angular, con un fu
         </a>
         <a href="https://www.docker.com">
         <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50" align="middle"/>
-    </a> &nbsp;
+    </a>
     <a href="https://jakarta.ee">
         <img src="https://www.svgrepo.com/show/373717/jsp.svg" width="50" align="middle"/>
 </p>
