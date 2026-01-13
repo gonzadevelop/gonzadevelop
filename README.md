@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Gonzalo Vicente
 
 ## Desarrollador Web Full-Stack en formación
-Actualmente especializado en el ecosistema Java/Spring Boot y Angular, con un fuerte enfoque en arquitectura limpia y gestión de bases de datos SQL.
+Actualmente especializadome en el ecosistema Java/Spring Boot y Angular, con un fuerte enfoque en arquitectura limpia y gestión de bases de datos SQL.
 
 ---
 
