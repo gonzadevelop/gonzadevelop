@@ -51,12 +51,28 @@ Actualmente especializadome en el ecosistema Java/Spring Boot y Angular, con un 
     <a href="https://github.com">
         <img src="https://www.svgrepo.com/show/512317/github-142.svg" width="50" align="middle"> 
     </a> &nbsp;
+    <a href="https://gitlab.com">
+        <img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="50" align="middle"> 
+    </a> &nbsp;
     <a href="https://code.visualstudio.com">
         <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="50" align="middle"> 
     </a> &nbsp;
     <a href="https://www.jetbrains.com/idea/download/?section=windows">
         <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="50" align="middle">
+    </a> &nbsp;
+    <a href="https://nginxproxymanager.com/">
+        <img src="https://nginxproxymanager.com/icon.png" width="50" align="middle">
+    </a> &nbsp;
+    <a href="https://github.com/dbeaver/cloudbeaver">
+        <img src="https://github.com/dbeaver/cloudbeaver/wiki/images/cloudbeaver-head.png" width="50" align="middle">
+    </a> &nbsp;
+    <a href="https://www.portainer.io/">
+        <img src="https://developer.asustor.com/uploadIcons/0020_999_1755842103_Portainer_new_icon256.png" width="50" align="middle">
     </a>
+
+
+
+
 </p>
 
 ---
